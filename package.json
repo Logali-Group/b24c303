@@ -1,0 +1,20 @@
+{
+  "name": "B24C303",
+  "version": "1.0.0",
+  "description": "Products",
+  "repository": "https://github.com/Logali-Group/b24c303.git",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^8.1.1",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^1",
+    "@sap/eslint-plugin-cds": "^3",
+    "eslint": "^9"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  }
+}
